@@ -1,0 +1,10 @@
+Estadísticas de atención para la fecha
+Mon, 03 Apr 2017 15:02:27 -0500
+
+Resultados para 1:	3
+Resultados para 2:	4
+Resultados para 3:	2
+Resultados para 4:	8
+Resultados para 5:	1
+
+Total de registros:	18

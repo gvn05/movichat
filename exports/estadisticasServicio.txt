@@ -1,0 +1,10 @@
+Estadísticas de servicio para la fecha
+Mon, 03 Apr 2017 15:02:27 -0500
+
+Resultados para 1:	7
+Resultados para 2:	6
+Resultados para 3:	1
+Resultados para 4:	1
+Resultados para 5:	3
+
+Total de registros:	18
