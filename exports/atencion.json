@@ -16,3 +16,6 @@
 {"_id":{"$oid":"58e28d144384982b57e70456"},"calidadAtencion":"1"}
 {"_id":{"$oid":"58e2928501ace5309b682877"},"calidadAtencion":"2"}
 {"_id":{"$oid":"58e2aa53fd0ea33a3e454a4b"},"calidadAtencion":"1"}
+{"_id":{"$oid":"58e532638ce1613231205c82"},"calidadAtencion":"1"}
+{"_id":{"$oid":"58e534d38ce1613231205c84"},"calidadAtencion":"3"}
+{"_id":{"$oid":"58e53eee34407339b856bb50"},"calidadAtencion":"5"}
